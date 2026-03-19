@@ -1,0 +1,204 @@
+Mounika  0:02  
+Hello, everyone. Hi,
+
+Naga Karthik  0:05  
+hi, how are you? I'm good. How are you? I'm doing well, thank you.
+
+Mahendra  0:12  
+What's up, Mahindra, how are you? Man, what's up, man, I'm doing good. Like, how you guys doing?
+
+Mounika  0:16  
+Yeah, I'm doing well, good. Thanks for asking. So yeah,
+
+Venu Dassireddy  0:23  
+yeah, how everyone looked the data set and instructions, which is given by the professor. Have you gone through that?
+
+Mounika  0:28  
+Yes, it's bit confusing, but yeah,
+
+Venu Dassireddy  0:32  
+okay, okay, from your point of view, what did what did you understand from that? Just tell me so that,
+
+Mahendra  0:40  
+if you guys could explain, like, how we need to use the data sets, like we have only one and two data sets, and professor was let us know for use to Hennepin and Ramsey County from Admin state data sets with the mortgage. Like the we need to match all the data sets, or how we need to use,
+
+Venu Dassireddy  0:58  
+oh, I think we need to work first on the data set which is given by the professor, and we need to find the data set from the links which is which has given in the instructions. And we need to work on both of them, and we need to compare like two counties, you know,
+
+Mounika  1:17  
+you need to filter the those two companies with the number. With that there will be a number for each quantity County, right? I just need to filter it
+
+Venu Dassireddy  1:32  
+sounds good. So
+
+Mounika  1:40  
+we need to work on two counties, right, the Hennepin and the Ramsey County. So let's just discuss divide some work. Sorry, guys,
+
+Mounika  1:59  
+sorry, we know I didn't hear you.
+
+Venu Dassireddy  2:02  
+Hello, yeah, can you hear me? Yeah, there's some network issue with me.
+
+Mounika  2:07  
+That's fine. That's fine. I can hear you now.
+
+Mahendra  2:17  
+I want to work with the like how historical data discrimination is. M demmed, in the modern data, if you compare in the past 1970s and 1980s until 1990s from that data to compare to the 2023 2024 data, how the discrimination was. M demmed, I want to go through with that, and you have any opinion on this. So, not
+
+Naga Karthik  2:45  
+really, but I was just looking at the data sets like, what are the data sets that we're going to use? I'm sorry. Okay, so, so you guys mean the mortgage convent data set is the main file, right? That our professor already cleaned and prepared for us.
+
+Venu Dassireddy  3:04  
+Yeah, that's a main file.
+
+Mounika  3:06  
+So the second file that we need to use
+
+Venu Dassireddy  3:10  
+for what, sorry, from, from the data set, which is given by the professor, that's where the main part of the work will be doing. So a main point, yeah.
+
+Mounika  3:26  
+Okay. So the second one must be the state m1 CSV, which is the whole minus raw Minnesota data file, right? So, yeah. So whoever doing the Ramsay County, we have to use this file.
+
+Venu Dassireddy  3:42  
+Let's it like everyone need to do everything, or
+
+Mounika  3:47  
+we just can? We can just divide our works, like some two people can work on Hennepin County and the other two can work on the Ramsey County.
+
+Naga Karthik  3:55  
+Yeah, any one of them can work on the comparison of, yeah, yeah, exactly we can do like that. I mean, is there any
+
+Mahendra  4:06  
+we figured out? Like, if you guys are working to the help in County, like
+
+Venu Dassireddy  4:11  
+I was trying to work work on the algorithm bias, as far as, like anyone in our team or doing that, no, right?
+
+Mounika  4:19  
+No, you're just reviewing our data sets right now. So,
+
+Mounika  4:27  
+so yeah, whoever doing the Hennepin, they just have to load the file and filter by the county code. Like, what's the county code? It's 27053, right? Yeah. Okay. So yeah. And for the RAM say county code, it's 27123, okay, yeah.
+
+Venu Dassireddy  4:49  
+We need to use that code and filter the particular county, and we
+
+Mounika  4:55  
+have to start working on the algorithmic and data bias. So I've been planning to. To do the Ramsay County. If you guys are interested, anyone just, you can just join me. We can together work in Ramsay County.
+
+Venu Dassireddy  5:09  
+Yeah, you can. You can share your work. We'll look into it, and together,
+
+Mahendra  5:15  
+like we can do the Ramsay County, and we'll do a comparison between rams and Hennepin exactly.
+
+Venu Dassireddy  5:19  
+Okay, and then I was mainly looking at the bias in housing on mortgage approvals. So that I started exploring on that a bit, you know, I was planning to just look at the mortgage approvals and housing bias.
+
+Mounika  5:37  
+Okay, so how about Karthik and Kartik?
+
+Mahendra  6:09  
+that's and is there any updates, like, in part a, we need to do data bias, and in part b, we need to do algorithm bias, I think part on
+
+Venu Dassireddy  6:26  
+algorithm site like I'll try to understand how different factors are actually
+
+Mounika  6:33  
+algorithm bias and also the database, not just algorithm bias.
+
+Naga Karthik  6:36  
+Yeah, I know.
+
+Mounika  6:39  
+Okay, go on. Is okay? So you people can work on you you two people can work on Hennepin County, right? So we'll work on the Ramsay County, and whatever the Google
+
+Venu Dassireddy  6:49  
+document we can do like that. I mean, I'm not sure about that, but yeah,
+
+Mounika  6:55  
+we'll plan accordingly after that. So,
+
+Venu Dassireddy  6:57  
+yeah, you can, you can just look at the Romsey data set from the links. Yeah, and you can just do or else you can do everything. So what about the
+
+Mounika  7:09  
+what about the Google Doc?
+
+Mahendra  7:12  
+You bother about Google Docs like maybe take a week to complete the whole coding part, and after
+
+Naga Karthik  7:20  
+that, everyone is done with the works. We can just review everyone works.
+
+Mounika  7:24  
+And someone should take care of some parts, right? And before,
+
+Mahendra  7:29  
+yeah, that's what, yeah.
+
+Venu Dassireddy  7:31  
+I mean, we will all be generating the graphs, right? We'll just from the best ones, and we can just put
+
+Mounika  7:40  
+them in there. And also we need to, we need to create a PPT as well.
+
+Venu Dassireddy  7:45  
+I mean, yeah, we'll
+
+Mahendra  7:48  
+create the, I'll present the, I'll prepare the presentation, and in Google Docs, I'm gonna, I'm ready to do my part in methodology and overall summary of the project, okay?
+
+Venu Dassireddy  8:05  
+And you know some Okay, I'll just look into some parts. Okay, I'll just
+
+Mounika  8:11  
+fill out the first two if I almost complete these things. And then so, Mahendra, you're gonna work on methodologies. And for the findings, we need to review all our work, and then we have to fill it up.
+
+Mahendra  8:25  
+So yeah, and I'll read all the documents, and I'll figure out something.
+
+Mounika  8:31  
+Okay, okay, then we can meet
+
+Mahendra  8:35  
+next meeting. Okay, library meet. And yeah, we can,
+
+Mounika  8:53  
+Sounds good. Okay, then see you people. Bye, yeah, okay. Is there anything? No, is there anything to talk I'm sorry,
+
+Mahendra  9:03  
+nothing like we are clear about how we need to complete the coding part, and after the coding part, we're going to discuss about Google Docs and
+
+Venu Dassireddy  9:10  
+presentations after we're done, yeah, after we are done with our works.
+
+Mounika  9:15  
+Okay, okay, then
+
+Mahendra  9:17  
+one more. We are pretty clear about, like, Which part are going to done by week. Like, two are going with any Hennepin, and two are going with Ram say, and yeah,
+
+Venu Dassireddy  9:28  
+and one of them do the comparison.
+
+Mounika  9:32  
+Like, take care of the comparison, yeah.
+
+Venu Dassireddy  9:35  
+And we can just that's not, I mean, is there? Is there? Like, we need to generate like, I mean, I don't know, for for Ramsay, also we need to do the same like Hennepin, and we need to compare, or else we can just,
+
+Mounika  9:55  
+no, you need to compare both. The comparison should be between both Hennepin and the Ramsay. Counties, okay, not, not just the RAM, say, algorithmic and data bias. So we need to compare both counties. That's the the last part,
+
+Naga Karthik  10:10  
+okay, but we need to just you guys. We need, we don't need to take so many reference like we just need to take anyone preference and compare them. Or is it like we need to compare like?
+
+Mounika  10:26  
+We'll, we'll, we'll get to know once we started our work.
+
+Venu Dassireddy  10:30  
+Yeah, okay, yeah, I got you. Okay, yeah, that's his before. Yeah, yeah, see you tomorrow. Guys, yeah, you have good night, bye, bye.
+
